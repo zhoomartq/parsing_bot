@@ -1,1 +1,1 @@
-token = Add your by token which the bot father gave you
+token = Add your  token which the bot father gave you
