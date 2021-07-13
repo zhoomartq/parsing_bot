@@ -1,1 +1,1 @@
-token = "1848521956:AAE01VR4rA85aiU0byhBoMadsuw7guGxZX0"
+token = Add your by token which the bot father gave you
